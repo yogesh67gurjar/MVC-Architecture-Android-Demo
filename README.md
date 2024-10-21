@@ -1,5 +1,7 @@
 # MVC Architecture Demo - Android App
 
+![MVC-in-Android-Application-Development-](https://github.com/user-attachments/assets/a993497a-1a1c-403d-9dfd-962228902be8)
+
 This is a simple Android app that demonstrates the **Model-View-Controller (MVC)** architecture with two different implementations:
 1. **Without a Separate Controller**: All logic is handled directly within the `Activity`.
 2. **With a Separate Controller**: Business logic is separated into a controller class, adhering to proper MVC principles.
@@ -27,5 +29,6 @@ This is a simple Android app that demonstrates the **Model-View-Controller (MVC)
 ## API Reference
 - [CatFact API](https://catfact.ninja/)
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+## Contact
+- **Email**: [yogesh67gurjar@gmail.com](mailto:yogesh67gurjar@gmail.com)
+- **GitHub**: [github.com/yogesh67gurjar](https://github.com/yogesh67gurjar)
